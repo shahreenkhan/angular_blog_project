@@ -1,0 +1,97 @@
+{
+  "blogs": [
+    {
+      "title": "shareen",
+      "description": "hello",
+      "image": "https://th.bing.com/th/id/R.0cd780047d7406e7416908fa4e0b709e?rik=VFdKv%2fDKoObIJw&riu=http%3a%2f%2fwww.hdwallpaperspulse.com%2fwp-content%2fuploads%2f2016%2f03%2f02%2fcool-waterfall-image-desktop.jpeg&ehk=Hf71OXlzD%2bXhJb5gfIdllfaMg6DgXfb4n0Y3jCV66ck%3d&risl=&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "title": "PNINFOSYS",
+      "description": "vikas jain",
+      "image": "https://media-exp1.licdn.com/dms/image/C510BAQGd_dYzSeqjCA/company-logo_200_200/0/1541831208910?e=2159024400&v=beta&t=_NZkhnZcqKf0qKew2NZHkaWJXyCLBq5xsENOqqiLz1g",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "title": "sh",
+      "description": "khan",
+      "id": 1
+    },
+    {
+      "title": "pninfosys",
+      "description": "thatipur",
+      "id": 2
+    },
+    {
+      "title": "rahul",
+      "description": "anand nagar",
+      "id": 3
+    }
+  ],
+  "register": [
+    {
+      "name": "sk",
+      "email": "ss@",
+      "password": "1122",
+      "id": 1
+    },
+    {
+      "name": "shareen",
+      "email": "shareenkhan04@gmail.com",
+      "password": "111",
+      "id": 2
+    },
+    {
+      "email": "shareenkhan04@gmail.com",
+      "password": "111",
+      "id": 3
+    },
+    {
+      "email": "shareenkhan04@gmail.com",
+      "password": "111",
+      "id": 4
+    },
+    {
+      "email": "shareenkhan04@gmail.com",
+      "password": "111",
+      "id": 5
+    },
+    {
+      "email": "shareenkhan04@gmail.com",
+      "password": "1",
+      "id": 6
+    }
+  ],
+  "contact": [
+    {
+      "name": "shareen",
+      "email": "ss@gmail.com",
+      "phone": "928759236",
+      "message": "gyug idkgyui iegfyugfeliu iegfoiugf ief2iefgti2mguyefgy  gfiuogf428ogbjkgdkufg fgeufyiuty ef2ytri7r6t fekufr2iu",
+      "id": 1
+    },
+    {
+      "name": "ashif",
+      "email": "as@",
+      "phone": "2344",
+      "message": "dsufhb uii",
+      "id": 2
+    },
+    {
+      "name": "as",
+      "email": "ssss@",
+      "phone": "5436363",
+      "message": "vjldsnglo",
+      "id": 3
+    },
+    {
+      "name": "ali",
+      "email": "ali@",
+      "phone": "6598",
+      "message": "kjfh giugh uiurgh iuiwh ",
+      "id": 4
+    }
+  ]
+}
